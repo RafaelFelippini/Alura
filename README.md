@@ -31,13 +31,6 @@ Se você é um desenvolvedor e quer dar uma força, fique à vontade para contri
 
 **#piadas #IA #javascript #html #css #diversão #código**
 
-**Dica:** Para deixar o README ainda mais divertido, você pode adicionar um GIF ou uma imagem engraçada no topo do arquivo.
-
-**Outras ideias para o README:**
-
-* **Histórico do projeto:** Conte um pouco sobre como a ideia surgiu e como o projeto evoluiu.
-* **Próximos passos:** Mencione quais são os seus planos futuros para a aplicação, como adicionar mais funcionalidades ou melhorar o desempenho.
-* **Agradecimentos:** Agradeça a quem te ajudou durante o desenvolvimento do projeto.
 
 **Lembre-se:** O README é a sua vitrine no GitHub. Use-o para atrair a atenção de outros desenvolvedores e mostrar o seu trabalho de forma clara e divertida!
 
